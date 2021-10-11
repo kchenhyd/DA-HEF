@@ -1,0 +1,37 @@
+
+============================================================================================
+
+            Configuration of Using Ensemble Smoother-Multiple Data Assimilation 
+                            to Estimate Hydrologic Exchange Flux 
+
+============================================================================================
+The thermistors used to estimate flux are at the depth (m): (-0.01, -0.05, -0.65)
+
+Is hydraulic gradient available? No
+
+Is flow direction available? No
+
+The temperature data resolution is (sec): 300.0
+
+The measurement error type is: relative
+
+The percentage of measurement error to observation is: 0.01
+
+The spinup length is (day): 0.1
+
+Number of realizations: 150
+
+Number of iterations:   4
+
+The parameters that will be estimated include ['flux'].
+
+The data assimilation timestep is (s): 900.0
+
+The mean of prior flux is (m/day): 0.0
+The standard deviation of prior flux is (m/day): 0.5
+The upper limit of flux is (m/day): 5.0
+The lower limit of flux is (m/day): -5.0
+
+The thermal conductivity is (W/(mK)-1): 0.93
+
+The porosity is: 0.43
