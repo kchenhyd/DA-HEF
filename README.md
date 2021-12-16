@@ -17,4 +17,5 @@ In the project, ensemble smoother-multiple data assimilation (ES-MDA) based data
 2. The workflow is adapted to the supercomputers at [National Energy Research Scientific Computing Center (NERSC)](http://www.nersc.gov/).
 
 
-
+# Chen et al., WRR, 2022,
+The simulation results and data are in the share driver (https://drive.google.com/drive/folders/1MdMTE50r0xNP1FIuZEkCuhuiMg8UoBIQ?usp=sharing)
