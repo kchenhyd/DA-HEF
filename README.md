@@ -15,6 +15,4 @@ In the project, ensemble smoother-multiple data assimilation (ES-MDA) based data
 
 1. The numerical model for subsurface flow at Hanford site is built using [PFLOTRAN](http://www.pflotran.org/), a massively parallel reactive flow and transport model for describing surface and subsurface processes.
 2. The workflow is adapted to the supercomputers at [National Energy Research Scientific Computing Center (NERSC)](http://www.nersc.gov/).
-
-
-The simulation results and data of Chen et al., WRR, 2022 are in the share driver (https://drive.google.com/drive/folders/1MdMTE50r0xNP1FIuZEkCuhuiMg8UoBIQ?usp=sharing)
+3. The simulation results and data of Chen et al., WRR, 2022 are in the share driver (https://drive.google.com/drive/folders/1MdMTE50r0xNP1FIuZEkCuhuiMg8UoBIQ?usp=sharing)
